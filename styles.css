@@ -194,7 +194,7 @@
   .hero {
     background: #9999;
     background: linear-gradient(to right, #161616, #a3a0a0);
-    background-image:url(/img/fundo1.png) ;
+    background-image:url(/fundo1.png) ;
     
     padding: 200px 0;
   }
