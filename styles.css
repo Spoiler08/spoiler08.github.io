@@ -512,7 +512,7 @@
     flex-direction: column;
     justify-content: center;
     color: #fff;
-    background-image: url(/img/Luffy.jpg);
+    background-image: url(/Luffy.jpg);
     transition: 0.3s ease-in;
   }
   
@@ -530,17 +530,17 @@
       #12d8fa,
       #1fa2ff
     ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background-image: url(/img/zoro1.png);
+    background-image: url(/zoro1.png);
     background-size: 110%;
   }
   
   .services__card:nth-child(3) {
-    background-image: url(/img/nami2.png);
+    background-image: url(/nami2.png);
     background-size: 210%;
     
   }
   .services__card:nth-child(4) {
-    background-image: url(/img/jolly.png);
+    background-image: url(/jolly.png);
   }
   
   .services__card h2 {
